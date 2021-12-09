@@ -15,3 +15,5 @@ En un unos meses podré tener mi primer empleo como desarrollador
 Y en un año tendré los suficientes ingresos para independizarme
 Ahora siento que mi carrera esta dando ya sus primeros pasos luego de gatear
 Y estoy muy emocionado por ello
+
+Probando el reset Head
