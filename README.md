@@ -4,4 +4,4 @@ Un blog increíble para el curso de Git y Github de Platzi
 
 Hasta hace unos momentos antes de escribir este readme aprendí que era un readme, así que no será muy profesional pero lo que si será interesante y agradable de leer unos años en el futuro.
 
-###*Confía* 😌*...*
+###*Confía...* 😌
