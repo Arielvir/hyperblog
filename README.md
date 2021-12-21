@@ -5,7 +5,7 @@ Un blog increíble para el curso de Git y Github de Platzi
 * La web 3.0 es el futuro y practicamente la pista de mi carrera en esta industria
 * Me encanta ser parte de la generación que va a construir la 3.0
 * Creado por el increíble Ariel
-
+* Incluye ejemplos en Windows, Linux y Mac
 
 Hasta hace unos momentos antes de escribir este readme aprendí que era un readme, así que no será muy profesional pero lo que si será interesante y agradable de leer unos años en el futuro.
 
